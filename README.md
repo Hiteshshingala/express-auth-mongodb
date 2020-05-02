@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-$ npm install -g express-generator
+$ npm install -g express-auth-mongodb-generator
 ```
 
 ## Quick Start
