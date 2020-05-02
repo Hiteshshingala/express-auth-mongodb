@@ -361,7 +361,7 @@ function createApplication (name, dir) {
   }
 
   // Static files
-  app.locals.uses.push("express.static(path.join(__dirname, 'public'))")
+  app.locals.uses.push("express-mongo.static(path.join(__dirname, 'public'))")
 
   if (program.git) {
     copyTemplate('js/gitignore', path.join(dir, '.gitignore'))

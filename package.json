@@ -1,7 +1,7 @@
 {
   "name": "express-auth-mongodb-generator",
   "description": "Express with auth and mongodb' application generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Hitesh Shingala <shingalahitesh1583@gmail.com>",
   "contributors": [
     "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
@@ -22,7 +22,7 @@
     "app",
     "api"
   ],
-  "repository": "expressjs/generator",
+  "repository": "Hiteshshingala/express-auth-mongodb",
   "license": "MIT",
   "dependencies": {
     "commander": "2.15.1",
